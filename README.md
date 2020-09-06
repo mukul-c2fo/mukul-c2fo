@@ -4,7 +4,7 @@ Hello  👋
 
 🌱 I’m currently learning golang
 
-👯 I’m looking to collaborate on open source k8s projects
+👯 I’m looking to collaborate on noops or gitops
 
 💬 Ask me about AWS, Kubernetes and Terraform
 
