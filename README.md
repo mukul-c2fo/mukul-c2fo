@@ -10,4 +10,4 @@ Hello  👋
 
 😄 Pronouns: Avid Learner
 
-⚡ Fun fact: I like photography and I am learning to drive at an age of 30
+⚡ Fun fact: I like photography and traveling
